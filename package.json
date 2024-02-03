@@ -1,0 +1,14 @@
+{
+  "name": "dijkstra-shortest-path",
+  "version": "1.0.0",
+  "main": "built/main.js",
+  "repository": "git@github.com-ls30378:ls30378/dijkstra-shortest-path.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node built/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
